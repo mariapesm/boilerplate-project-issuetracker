@@ -12,4 +12,4 @@ suite('Unit Tests', function(){
 
 //none requiered
 
-});
+}); 
